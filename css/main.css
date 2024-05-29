@@ -1,0 +1,20 @@
+@font-face {
+    font-family: yekan;
+    src: url(../fonts/Samim.ttf);
+}
+
+*{
+    font-family: yekan;
+}
+.bbanner{
+background-color: #abd93f;
+}
+.green{
+    color: #75a504;
+}
+.bblog{
+    background-color: #d9e3bf;
+}
+.bfooter{
+    background-color: #acaea4;
+}
